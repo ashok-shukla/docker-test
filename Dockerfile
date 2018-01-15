@@ -1,3 +1,3 @@
 FROM scratch
 MAINTAINER Ashok Shukla <shukla_a24@yahoo.com>
-CMD ["echo","Hello World !!!"]
+CMD ["bin/echo","Hello World !!!"]
